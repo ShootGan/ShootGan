@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Tools:
+[![Python3](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/Shootgan/discord_bot_calendary) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc) [![Gcloud](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.qwiklabs.com/public_profiles/5a2d3502-1574-4253-8c79-bbfc5e2cf32f)
+ ## [Qwik labs badges ](https://www.qwiklabs.com/public_profiles/5a2d3502-1574-4253-8c79-bbfc5e2cf32f)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shootgan&show_icons=true&locale=en" alt="shootgan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shootgan&" alt="shootgan" /></p>
+
